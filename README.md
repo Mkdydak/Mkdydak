@@ -6,7 +6,7 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Always curious to learn new things connected with software testing.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
 
@@ -22,7 +22,9 @@
 
 - 💻 &nbsp; Python | MySQL | HTML | CSS | JavaScript
 
-## Get in touch
+## Connected with me
+<a href="mailto:mkdydak@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mkdydak@gmail.com-blue?style=flat&logo=gmail"></a>
+</p>
 
 - e-mail: mkdydak@gmail.com
 
