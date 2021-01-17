@@ -22,6 +22,10 @@
 
 - 💻 &nbsp; Python | MySQL | HTML | CSS | JavaScript
 
+## Get in touch
+
+- e-mail: mkdydak@gmail.com
+
 
 
 <!--
