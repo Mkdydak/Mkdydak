@@ -2,7 +2,7 @@
 
 
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3>About Me </h3>
 
 
 
@@ -20,9 +20,8 @@
 
 
 
-- 💻 &nbsp; Python | Java | C++ | C | MySQL
+- 💻 &nbsp; Python | MySQL | HTML | CSS | JavaScript
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
 
 <!--
