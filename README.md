@@ -19,7 +19,7 @@ I'm a passionate software tester who wants to be a pioneer at what he is doing. 
 
 - 💻 &nbsp; Python | Javascript
 
--🌐 &nbsp; HTML | CSS 
+- 🌐 &nbsp; HTML | CSS 
 
 - 🛢 &nbsp; MySQL 
 
