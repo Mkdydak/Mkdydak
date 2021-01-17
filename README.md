@@ -1,46 +1,32 @@
-### Hi there 👋 My name is Marta
+### Hi visitor <img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/Hi.gif" width="30px"></h2> My name is Marta.
+### Welcome to my Github! Glad to see you here! 🤩 
+
+I'm a passionate software tester who wants to be a pioneer at what he is doing. I'm always willing to learn and work across technologies and domains💡.
+
+### More about me...
+
+- 💻 &nbsp; Currently I am working on improving my technical skills, I am learning how to test mobile applications.
+
+- 🎓 &nbsp; Recently Software Tester graduate from Wyższa Szkoła Handlowa we Wrocławiu.
+
+- 🌱 &nbsp; Currently working as Online Shopping Specialist at <a href="https://www.apo-discounter.pl">
+
+- ✍️ &nbsp; I am willing to collaborate as a team player building better code. Always Willing to help 😇
+
+- ⚡&nbsp; Fun fact: Chips team :heart:, not chocolate :sweat_smile: 
 
 
+## Languages I use (basics)
 
-<h3>About Me </h3>
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-
-
-- 🤔 &nbsp; Always curious to learn new things connected with software testing.
-
-- 🎓 &nbsp; Studying Computer Science and Engineering at IIIT Vadodara and coding stuffs.
-
-- 🌱 &nbsp; Learning about Cloud Tech, Systems Design.
-
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
-
-
-
-<h3>🛠 Tech Stack</h3>
-
-
-
-- 💻 &nbsp; Python | MySQL | HTML | CSS | JavaScript
-
-## Connected with me
+## Connected with me 📫
 <a href="mailto:mkdydak@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-mkdydak@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-- e-mail: mkdydak@gmail.com
 
 
 
-<!--
-**Mkdydak/Mkdydak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
