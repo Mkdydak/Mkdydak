@@ -2,7 +2,7 @@
 ## Welcome to my Github! Glad to see you here! 🤩 
 
 
-I'm a passionate software tester who wants to be a pioneer at what he is doing. I am willing to collaborate as a team player building better code. Always Willing to help 😇
+I'm a passionate software tester who wants to be a pioneer at what he is doing. I am willing to collaborate as a team player building better code 😊
 
 ## More about me...
 
@@ -12,7 +12,7 @@ I'm a passionate software tester who wants to be a pioneer at what he is doing. 
 
 - 🌱 &nbsp; Currently working as Online Shopping Specialist.
 
-- ⚡&nbsp; Fun fact: Chips team :heart:, not chocolate :sweat_smile: 
+- ⚡ &nbsp; Fun fact: Chips team :heart:, not chocolate :sweat_smile: 
 
 
 ## 🛠 Tech Stack (basics)
