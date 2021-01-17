@@ -9,7 +9,7 @@ I'm a passionate software tester who wants to be a pioneer at what he is doing. 
 
 - 🎓 &nbsp; Recently Software Tester graduate from Wyższa Szkoła Handlowa we Wrocławiu.
 
-- 🌱 &nbsp; Currently working as Online Shopping Specialist at <a href="https://www.apo-discounter.pl">
+- 🌱 &nbsp; Currently working as Online Shopping Specialist.
 
 - ✍️ &nbsp; I am willing to collaborate as a team player building better code. Always Willing to help 😇
 
