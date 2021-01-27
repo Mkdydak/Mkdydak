@@ -1,8 +1,9 @@
-## Hi visitor. My name is Marta <img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/Hi.gif" width="30px">
+## Hi! My name is Marta <img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/Hi.gif" width="30px">
 ### Welcome to my Github! Glad to see you here! 😊
 
 
 I'm a passionate software tester who wants to be a pioneer at what he is doing. I am willing to collaborate as a team player building better code 😊
+I'm looking for my first job as a software tester.
 
 ## More about me...
 
@@ -10,7 +11,7 @@ I'm a passionate software tester who wants to be a pioneer at what he is doing. 
 
 - 🎓 &nbsp; Recently Software Tester graduate from Wyższa Szkoła Handlowa we Wrocławiu.
 
-- 🌱 &nbsp; Currently working as Online Shopping Specialist.
+- 🌱 &nbsp; Currently working as Online Shopping Specialist. 
 
 
 
