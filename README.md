@@ -7,7 +7,7 @@ My name is Marta, a Biology graduate and Pharmaceutical Technician who's transit
 - This is also my goal for 2023 - to develop in one of these directions. 
 - Currently I am working as a Software Tester at Vialutions Sp. z o.o. (I am testing medical applications).
 
-### 🛠 Tech Stack (basics)
+### 🛠 Tech Stack (solid basics)
 
 - 💻 &nbsp; Python | Javascript
 - 🌐 &nbsp; HTML | CSS 
