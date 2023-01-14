@@ -3,8 +3,8 @@ My name is Marta, a Biology graduate and Pharmaceutical Technician who's transit
 
 - Through self-education and enrollment in a Software Tester studies, I am building a solid foundation in this profession.
 - I am passionate about manual and automated testing, data analysis and AI.
-- This year I passed the Microsoft AI-900 certification.
-- This is also my goal for 2023 - to develop in one of these directions. 
+- My goal for 2023 is to develop in one of these directions. 
+- Last year I passed the Microsoft AI-900 certification.
 - Currently I am working as a Software Tester at Vialutions Sp. z o.o. (I am testing medical applications).
 
 ### 🛠 Tech Stack (solid basics)
@@ -12,7 +12,7 @@ My name is Marta, a Biology graduate and Pharmaceutical Technician who's transit
 - 💻 &nbsp; Python | Javascript
 - 🌐 &nbsp; HTML | CSS 
 - 🛢 &nbsp; MySQL | PostgreSQL
-- 🔧 &nbsp; Git | Postman API | Selenium Webdriver | Android Studio | Cypress
+- 🔧 &nbsp; Git | Postman | Selenium Webdriver | Android Studio | Cypress
 
 ### 📫🤝🏻 Get in touch
 
